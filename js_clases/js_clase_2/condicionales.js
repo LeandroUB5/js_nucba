@@ -69,3 +69,7 @@ if (clima == "sol") {
 clima == "sol"
   ? console.log("Voy a la playa")
   : console.log("Me quedo en casa");
+// operador ternario ↑
+// Condicion
+// Valor Verdadero
+// Valor falso
